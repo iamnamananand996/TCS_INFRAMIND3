@@ -1,4 +1,4 @@
-# TCS_INFRAMIND3
+# Visual-Recognition-IBM-Watson
 
 
 
