@@ -9,8 +9,8 @@
 Type the following commands in your terminal:
 ```bash
 cd path/to/directory/
-git clone https://github.com/iamnamananand996/TCS_INFRAMIND3
-cd TCS_INFRAMIND3-master
+git clone https://github.com/iamnamananand996/Visual-Recognition-IBM-Watson
+cd Visual-Recognition-IBM-Watson
 pip install requirements.txt
 python app.py
 ```
