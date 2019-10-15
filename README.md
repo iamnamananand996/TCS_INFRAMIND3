@@ -9,7 +9,7 @@
 Type the following commands in your terminal:
 ```bash
 cd path/to/directory/
-git clone https://github.com/suraj038/TCS_INFRAMIND3
+git clone https://github.com/iamnamananand996/TCS_INFRAMIND3
 cd TCS_INFRAMIND3-master
 pip install requirements.txt
 python app.py
