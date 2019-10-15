@@ -1,6 +1,6 @@
 # TCS_INFRAMIND3
 
-[ Video Presentation Link](https://youtu.be/HWO1-MHQl00)
+
 
 ## Installation
 
